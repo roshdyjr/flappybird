@@ -1,6 +1,6 @@
-# flopy_bird
+# flappy_bird
 
-A new Flutter project.
+A simple and fun flappy bird game built using the flame plugin for flutter gaming application.
 
 ## Getting Started
 
